@@ -1,12 +1,8 @@
 {
-  "name": "aws-sdk",
+  "name": "@havenlife/aws-sdk-node10",
   "description": "AWS SDK for JavaScript",
   "version": "2.313.0",
-  "author": {
-    "name": "Amazon Web Services",
-    "email": "",
-    "url": "https://aws.amazon.com/"
-  },
+  "author": "Amazon Web Services (https://aws.amazon.com/)",
   "homepage": "https://github.com/aws/aws-sdk-js",
   "contributors": [
     "Loren Segal <lsegal@amazon.com>",
@@ -67,7 +63,8 @@
     "xml2js": "./dist/xml2js.js"
   },
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "test"
   },
   "types": "index.d.ts",
   "typings": "index.d.ts",
@@ -76,11 +73,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aws/aws-sdk-js"
+    "url": "git://github.com/aws/aws-sdk-js.git"
   },
   "bugs": {
-    "url": "https://github.com/aws/aws-sdk-js/issues",
-    "mail": ""
+    "url": "https://github.com/aws/aws-sdk-js/issues"
   },
   "license": "Apache-2.0",
   "keywords": [
