@@ -1,0 +1,23 @@
+{
+  "name": "@havenlife/aws-sdk-node10-testing",
+  "version": "1.0.0",
+  "description": "supports node 10 environment for aws-sdk",
+  "main": "api_loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws/aws-sdk-js.git"
+  },
+  "keywords": [
+    "node10",
+    "aws"
+  ],
+  "author": "sriram@Havenlife.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aws/aws-sdk-js/issues"
+  },
+  "homepage": "https://github.com/aws/aws-sdk-js#readme"
+}
