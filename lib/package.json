@@ -1,5 +1,5 @@
 {
-  "name": "@havenlife/aws-sdk-node10-testing",
+  "name": "@havenlife/aws-sdk-node10",
   "version": "1.0.0",
   "description": "supports node 10 environment for aws-sdk",
   "main": "api_loader.js",
