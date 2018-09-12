@@ -2,6 +2,9 @@
 <!--LATEST=2.313.0-->
 <!--ENTRYINSERT-->
 
+## 2.314.0
+* bug: remove extra package.json
+
 ## 2.313.0
 * feature: SSM: Session Manager is a fully managed AWS Systems Manager capability that provides interactive one-click access to Amazon EC2 Linux and Windows instances.
 
